@@ -5,6 +5,8 @@ AWS_Resource_Tracker
 AWS LAMBDA
 AWS IAM users
 
+CLI commands reference: https://docs.aws.amazon.com/cli/latest/reference/
+
 #To install AWS CLI on an Ubuntu EC2 instance follow the below commands
 
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
